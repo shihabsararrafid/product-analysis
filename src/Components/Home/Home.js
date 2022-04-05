@@ -5,7 +5,7 @@ import img from './dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg';
 const Home = () => {
     return (
         <div>
-            <div className='grid grid-cols-2 mt-[80px] h-[700px] gap-10 justify-center'>
+            <div className='grid lg:grid-cols-2 mb-[200px] mt-[80px]  h-[700px] gap-10 justify-center'>
                 {/* Banner right */}
                 <div className='ml-10'>
                     <h1 className='text-6xl mb-5 uppercase text-[#B300B3] font-bold'>
@@ -18,8 +18,8 @@ const Home = () => {
 
                 </div>
                 {/* banner left picture */}
-                <div className=' w-[500px] h-[650px]'>
-                    <img src={img} alt="" />
+                <div className=' w-[100%]  mx-auto h-[70%] object-cover'>
+                    <img className='w-full h-full' src={img} alt="" />
                 </div>
 
             </div>
