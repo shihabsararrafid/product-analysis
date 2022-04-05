@@ -8,7 +8,7 @@ const SingReview = (props) => {
             <div className='flex h-[80px] items-center justify-center '>
 
                 <img className='w-[50px] h-[50px] rounded-full' src={picture} alt="" />
-                <h1 className='ml-5 text-xl font-semibold'>Profile: <a className='text-blue-700' href="/">{name}</a> </h1>
+                <h1 className='ml-5 text-xl font-semibold'>Profile: <a className='text-blue-700' href="/name">{name}</a> </h1>
             </div>
             <div>
                 <p>{review}</p>
