@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# PRODUCT ANALYSIS WEBSITE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is tailwinded with [Product analysis project](https://github.com/programming-hero-web-course-4/product-analysis-website-shihabsararrafid).
+
 
 ## Available Scripts
 

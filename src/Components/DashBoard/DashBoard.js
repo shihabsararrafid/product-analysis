@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Bar, BarChart, CartesianGrid, Legend, Line, LineChart, Pie, PieChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
-import Chart from '../Chart/Chart';
+
 
 
 const DashBOard = () => {
@@ -50,9 +50,10 @@ const DashBOard = () => {
     //         .then(data1 => setData(data1))
     // }, [data1])
     return (
-        <div>
-            <div>
-                <LineChart width={730} height={250} data={data1}
+        <div className='lg:flex'>
+            <div className='' >
+
+                <LineChart width={550} height={250} data={data1}
                     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
@@ -62,9 +63,13 @@ const DashBOard = () => {
                     <Line type="monotone" dataKey="investment" stroke="#8884d8" />
                     <Line type="monotone" dataKey="revenue" stroke="#82ca9d" />
                 </LineChart>
+
+
+
+
             </div>
             <div>
-                <BarChart width={730} height={250} data={data1}>
+                <BarChart width={550} height={250} data={data1}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
                     <YAxis />
