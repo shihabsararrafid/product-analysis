@@ -1,0 +1,56 @@
+[
+    {
+        "id": "623853b2614ad5aba311fdd1",
+        "index": 0,
+        "picture": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "name": "Willian Jian",
+        "review": "I am very happy to have these product , I have been using it for 5 years and it has a consistense performance till now.",
+        "ratings": "5",
+        "gender": "Male"
+    },
+    {
+        "id": "623853b2578e9e6ad1ae0dd5",
+        "index": 1,
+        "picture": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "review": "I am very dissappointed with it's battery life . It only give 2 hours backup . Apple should consider this problem seriously.",
+        "name": "Ben Parker",
+        "ratings": "4",
+        "gender": "Male"
+    },
+    {
+        "id": "623853b21fb149d2ee7b76c7",
+        "index": 2,
+        "picture": "https://images.unsplash.com/flagged/photo-1573740144655-bbb6e88fb18a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+        "review": "Though I bought it with a high price but it don't have any upgrade option , I am very much of in need of upgrading a SSD to the system. ",
+        "name": "Mr. Tom ",
+        "ratings": "3",
+        "gender": "Male"
+    },
+    {
+        "id": "623853b2e91c8de578c9245e",
+        "index": 3,
+        "picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "review": " Very Poor After sales Service .",
+        "name": "Thomas Labert",
+        "ratings": "2",
+        "gender": "Male"
+    },
+    {
+        "id": "623853b2239582e48409ccc6",
+        "index": 4,
+        "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "name": "Jurica Kolletic",
+        "review": "Satisfied with the product.",
+        "ratings": "5",
+        "gender": "Male"
+    },
+    {
+        "id": "623853b2cdda0d5bc294f791",
+        "index": 5,
+        "picture": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "review": "It has been good experience with this shop.",
+        "ratings": "5",
+        "name": "Ben 10",
+        "gender": "Male"
+    }
+]
